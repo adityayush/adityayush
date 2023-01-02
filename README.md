@@ -14,4 +14,5 @@
 
 
 <p align="left">
-  <a href="https://www.instagram.com/adityaayush__1/" target="blank"><img align="center" src="https://github.com/adityayush/adityayush/edit/main/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/aditya-prakash-195770224/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+</p>
