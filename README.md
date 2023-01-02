@@ -16,3 +16,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-prakash-195770224/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
+
+
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering. </br>
+⛵ Open Source enthusiast </br>
+🌱 Learnings: Frontend, Backend, GCCP</br>
+😄 Pronouns: He/him/his</br>
+
+
